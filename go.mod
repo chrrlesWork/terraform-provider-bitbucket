@@ -1,4 +1,4 @@
-module github.com/terraform-providers/terraform-provider-bitbucket
+module github.com/chrrlesWork/terraform-provider-bitbucket/v2
 
 require (
 	github.com/DrFaust92/bitbucket-go-client v0.10.0
